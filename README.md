@@ -1,4 +1,4 @@
-# 💻 Digital Literacy Project Portfolio
+# 💻 Digital Literacy Project
 
 ![Course](https://img.shields.io/badge/Course-CSE0001%20Digital%20Literacy-blue)
 ![University](https://img.shields.io/badge/University-VIT%20Bhopal-green)
