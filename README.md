@@ -2,7 +2,7 @@
 
 ![Course](https://img.shields.io/badge/Course-CSE0001%20Digital%20Literacy-blue)
 ![University](https://img.shields.io/badge/University-VIT%20Bhopal-green)
-![Project](https://img.shields.io/badge/Project-Digital%20Literacy%20Portfolio-orange)
+![Project](https://img.shields.io/badge/Project-Digital%20Literacy-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
