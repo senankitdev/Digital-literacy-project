@@ -132,7 +132,7 @@ I also prepared a **Stay Safe Online checklist** with preventive measures.
 
 | Platform | Link |
 |--------|------|
-| GitHub | https://github.com/YOUR_USERNAME |
+| GitHub | https://github.com/senankitdev |
 | LinkedIn | https://linkedin.com/in/YOUR_PROFILE |
 | Kaggle | https://kaggle.com/YOUR_USERNAME |
 | HackerRank | https://hackerrank.com/YOUR_USERNAME |
