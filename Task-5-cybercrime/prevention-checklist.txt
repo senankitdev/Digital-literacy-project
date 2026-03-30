@@ -1,0 +1,23 @@
+Stay Safe Online – Prevention Checklist
+
+1. Never share your OTP, UPI PIN, or bank details with anyone, even if they claim to be from a bank or official organization.
+
+2. Do not approve unknown “collect requests” on UPI apps. Remember: receiving money does NOT require entering your PIN.
+
+3. Avoid scanning random QR codes sent by strangers. Scanning a QR code can lead to money being debited from your account.
+
+4. Always verify the identity of callers or messages claiming to offer rewards, refunds, or urgent help. Do not trust unknown numbers blindly.
+
+5. Use strong and unique passwords for your email, social media, and banking apps. Enable two-factor authentication (2FA) wherever possible.
+
+6. Do not click on suspicious links received via SMS, WhatsApp, or email, as they may lead to phishing websites.
+
+7. Keep your mobile apps and operating system updated to protect against security vulnerabilities.
+
+8. Avoid using public Wi-Fi for financial transactions. If necessary, use a secure VPN connection.
+
+9. Regularly check your bank statements and transaction history to quickly detect any unauthorized activity.
+
+10. If you become a victim of cyber fraud, immediately report it to the National Cyber Crime Portal: https://cybercrime.gov.in or call the helpline number 1930.
+
+Stay alert, think before you act, and always prioritize your digital safety.
