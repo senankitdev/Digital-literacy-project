@@ -41,31 +41,12 @@ These activities helped me develop both **technical skills and digital responsib
 ---
 
 # 📂 Repository Structure
-
-digital-literacy-project
-│
-├── README.md
-│
-├── report/
-│ └── Project_Report.pdf
-│
-├── task-1-presentation/
-│ └── infographic.png
-│
-├── task-2-portfolio/
-│ └── profile-screenshots
-│
-├── task-3-platforms/
-│ └── coding-challenge + google-form screenshots
-│
-├── task-4-email-etiquette/
-│ ├── professional-emails.pdf
-│ └── social-media-checklist.md
-│
-└── task-5-cybercrime/
-├── casestudy.md
-└── prevention-checklist.md
-
+- `task-1-presentation/` → Digital Literacy Infographic  
+- `task-2-portfolio/` → Professional profile screenshots  
+- `task-3-platforms/` → Coding platform & Google Form work  
+- `task-4-email-etiquette/` → Email drafts & checklist  
+- `task-5-cybercrime/` → Case study & prevention tips  
+- `report/` → Final Project Report  
 
 ---
 
