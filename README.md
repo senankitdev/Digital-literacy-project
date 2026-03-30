@@ -133,10 +133,10 @@ I also prepared a **Stay Safe Online checklist** with preventive measures.
 | Platform | Link |
 |--------|------|
 | GitHub | https://github.com/senankitdev |
-| LinkedIn | https://linkedin.com/in/YOUR_PROFILE |
-| Kaggle | https://kaggle.com/YOUR_USERNAME |
-| HackerRank | https://hackerrank.com/YOUR_USERNAME |
-| Digital Literacy Quiz | https://forms.google.com/YOUR_FORM_LINK |
+| LinkedIn | https://linkedin.com/ankit-sen00/ |
+| Kaggle | https://kaggle.com/ankitsen00 |
+| HackerRank | https://hackerrank.com/senankit_dev |
+| Digital Literacy Quiz | https://forms.gle/XeeHXXQ6mP91VZtj9 |
 
 ---
 
